@@ -2,7 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     style="@style/LayoutMatchParent"
     android:background="@drawable/layout_bg"
-    tools:context="com.artivisi.android.kyurifood.distributor.fragments.DashboardFragment">
+    tools:context="com.artivisi.android.kyurifood.distributor.fragments.DashboardFragment"
+    android:fillViewport="false">
 
     <LinearLayout style="@style/ComponentLayout"
         android:padding="@dimen/layout_padding"
